@@ -34,9 +34,10 @@
 
 ### 📌 Projetos em destaque
 
+- 💰 [**Gerenciador de Finanças Pessoais**](https://github.com/Oliver-Norton10/Gerenciador-finan-as) — aplicação desktop em Python com interface gráfica (Tkinter) e banco de dados SQLite para controle de receitas e despesas
 - 🔧 [**projetos-git**](https://github.com/Oliver-Norton10/projetos-git) — repositório de estudos e prática de comandos Git
 
-> Novos projetos em breve! Estou sempre trabalhando em algo novo para colocar em prática o que estudo.
+> Mais projetos em breve! Estou sempre trabalhando em algo novo para colocar em prática o que estudo.
 
 ---
 
