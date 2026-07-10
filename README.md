@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Oliver 👋</h1>
+<h1 align="center">Olá, eu sou o Oliver <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="30px" alt="wave" /></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Engenharia+de+Software;Desenvolvedor+em+forma%C3%A7%C3%A3o;Aberto+a+oportunidades+de+est%C3%A1gio+%F0%9F%9A%80" alt="Typing SVG" />
@@ -20,14 +20,7 @@
 ### 🛠️ Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,java,js,cpp,csharp,git,github&theme=dark" alt="Ícones de tecnologia" />
 </p>
 
 ---
@@ -54,9 +47,18 @@
 
 ---
 
+### 🐍 Minhas contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oliver-Norton10/Oliver-Norton10/output/github-contribution-grid-snake.svg" alt="Animação de contribuições" />
+</p>
+
+> ⚙️ Essa animação precisa de uma configuração extra (explico o passo a passo abaixo) — depois de ativada, ela atualiza sozinha.
+
+---
+
 ### 🎯 Objetivo atual
 
 Estou construindo minha base como desenvolvedor, praticando lógica, versionamento de código e boas práticas — buscando minha primeira oportunidade de estágio na área de tecnologia.
 
 <p align="center"><i>Obrigado pela visita! ⭐</i></p>
-
