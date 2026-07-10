@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: Oliver-Norton10
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2339FF14&color_dots=%23161b22,%230d3d1f,%231a6b32,%2323a648,%2339ff14&color_background=%230D1117
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
